@@ -20,7 +20,7 @@ int main() { //agre
 
     delete varIbu;
     delete varIbu2;
-    delete varAnak1;
+    delete varAna
     delete varAnak2;
     delete varAnak3;
 
